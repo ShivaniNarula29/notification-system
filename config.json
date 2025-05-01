@@ -1,0 +1,16 @@
+{
+  "vcs": {
+    "url": "https://api.github.com/webhooks",
+    "events": ["push", "pull_request", "commit"]
+  },
+  "notifications": {
+    "slack": {
+      "webhookUrl": "https://hooks.slack.com/services/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"
+    },
+    "email": {
+      "smtpServer": "smtp.example.com",
+      "emailFrom": "notifications@example.com",
+      "emailTo": "dev-team@example.com"
+    }
+  }
+}
