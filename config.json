@@ -1,11 +1,11 @@
 {
   "vcs": {
-    "url": "https://github.com/ShivaniNarula29/notification-system.git",  // Your GitHub repository URL
-    "events": ["push", "pull_request", "commit"]  // Events to listen for
+    "url": "https://github.com/ShivaniNarula29/notification-system.git",
+    "events": ["push", "pull_request", "commit"]
   },
   "notifications": {
     "slack": {
-      "webhookUrl": "https://hooks.slack.com/services/T089U8HLUKW/B08Q52JL4K1/iT478hgbdskN0RhsRaw"  // Your Slack webhook URL
+      "webhookUrl": "https://hooks.slack.com/services/T089U8HLUKW/B08Q52JL4K1/iT478hgbdskN0RhsRaw"
     }
   }
 }
