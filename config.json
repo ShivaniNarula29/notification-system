@@ -5,7 +5,7 @@
   },
   "notifications": {
     "slack": {
-      "webhookUrl": "https://hooks.slack.com/services/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"
+      "webhookUrl": "https://hooks.slack.com/services/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"
     }
   }
 }
